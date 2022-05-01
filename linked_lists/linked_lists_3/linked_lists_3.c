@@ -7,6 +7,7 @@
 // bunlarin haricinde eklenen sayiyi buyukluk derecesine gore listeye ekler 
 // en buyukse en sona orta buyuklukteyse araya gibi
 
+// en sonda ise bagli listeden eleman silme islemi gösterilir
 
 
 
@@ -25,8 +26,31 @@ void bastir(node *r)
         printf("%d ", r->data);
         r=r->next;
     }
+    printf("\n");
 }
 
+node * elemanSil(node *r, int x)
+{
+    node *temp;
+    node *iter;
+    iter =r;
+    if(r->data == x)
+    {
+        temp = r;
+        r = r ->next;
+        free(temp);
+        return r;
+    }
+    while((iter->next == NULL) && (iter->next->data != x))
+    {
+        iter = iter->next;
+    }
+    temp = iter->next;
+    iter->next = iter->next->next;
+    free(temp);
+    return r;
+
+}
 node * ekle(node *r, int data)
 {
 
@@ -80,7 +104,20 @@ int main()
     root = ekle(root,200);
     root = ekle(root,101);
     root = ekle(root,99);
+    bastir(root);
 
+   // eleman silme islemleri 
+    root = elemanSil(root, 35);
+    bastir(root);
+    root = elemanSil(root, 75);
+    bastir(root);
+    root = elemanSil(root, 99);
+    bastir(root);
+    root = elemanSil(root, 100);
+    bastir(root);
+    root = elemanSil(root, 101);
+    bastir(root);
+    root = elemanSil(root, 200);
     bastir(root);
 
     return 0;   
