@@ -1,0 +1,3 @@
+D:/Fork/data_structures_c/stack_linked_lists/cmake-build-debug/CMakeFiles/stack_linked_lists.dir
+D:/Fork/data_structures_c/stack_linked_lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fork/data_structures_c/stack_linked_lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

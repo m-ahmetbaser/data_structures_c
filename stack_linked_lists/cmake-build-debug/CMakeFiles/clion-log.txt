@@ -1,0 +1,4 @@
+"D:\CLion\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\Fork\data_structures_c\stack_linked_lists -B D:\Fork\data_structures_c\stack_linked_lists\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Fork/data_structures_c/stack_linked_lists/cmake-build-debug

@@ -1,0 +1,27 @@
+# ninja log v5
+0	111	6746990164650371	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+8	115	6746990164650371	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+115	257	6746990166117762	stack_linked_lists.exe	3d93b1a9fdba23d2
+1	98	6746991212256986	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+10	105	6746991212317194	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+105	224	6746991213481196	stack_linked_lists.exe	3d93b1a9fdba23d2
+1	87	6746993364873323	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+88	202	6746993365998171	stack_linked_lists.exe	3d93b1a9fdba23d2
+2	85	6746993617982495	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+86	217	6746993619294161	stack_linked_lists.exe	3d93b1a9fdba23d2
+2	92	6746995226195723	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+10	104	6746995226325049	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+105	226	6746995227515040	stack_linked_lists.exe	3d93b1a9fdba23d2
+2	91	6746996612633861	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+91	209	6746996613793769	stack_linked_lists.exe	3d93b1a9fdba23d2
+1	95	6746996834152199	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+95	210	6746996835279182	stack_linked_lists.exe	3d93b1a9fdba23d2
+1	86	6746996985594927	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+86	201	6746996986716182	stack_linked_lists.exe	3d93b1a9fdba23d2
+2	108	6746998616021802	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+11	131	6746998616251184	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+131	256	6746998617477907	stack_linked_lists.exe	3d93b1a9fdba23d2
+2	91	6746999141248493	CMakeFiles/stack_linked_lists.dir/stack_ll.c.obj	ab33d6306764f907
+91	207	6746999142388134	stack_linked_lists.exe	3d93b1a9fdba23d2
+1	84	6747000091414775	CMakeFiles/stack_linked_lists.dir/main.c.obj	6cb9a46caf5323d8
+85	198	6747000092546083	stack_linked_lists.exe	3d93b1a9fdba23d2
