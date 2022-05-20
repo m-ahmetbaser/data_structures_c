@@ -1,0 +1,3 @@
+D:/Fork/data_structures_c/Queue_Array/cmake-build-debug/CMakeFiles/Queue_Array.dir
+D:/Fork/data_structures_c/Queue_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fork/data_structures_c/Queue_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
