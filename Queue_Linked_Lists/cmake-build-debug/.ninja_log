@@ -1,0 +1,4 @@
+# ninja log v5
+0	117	6747869600816571	CMakeFiles/Queue_Linked_Lists.dir/main.c.obj	4a9997190a562e53
+11	122	6747869600856475	CMakeFiles/Queue_Linked_Lists.dir/queue_ll.c.obj	f9dd8e24d07095b
+122	280	6747869602435267	Queue_Linked_Lists.exe	223b0ff87e68e1f
