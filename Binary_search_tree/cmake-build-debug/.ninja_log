@@ -1,0 +1,21 @@
+# ninja log v5
+1	121	6748594202564408	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+14	193	6748594203282781	CMakeFiles/Binary_search_tree.dir/bst.c.obj	f373e6058375754b
+193	476	6748594206094973	Binary_search_tree.exe	c264913d15ff550e
+11	102	6748608165400174	CMakeFiles/Binary_search_tree.dir/bst.c.obj	f373e6058375754b
+2	118	6748608165560336	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+118	242	6748608166756545	Binary_search_tree.exe	c264913d15ff550e
+1	85	6748608244727756	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+86	199	6748608245851286	Binary_search_tree.exe	c264913d15ff550e
+1	86	6748608447463861	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+87	200	6748608448577017	Binary_search_tree.exe	c264913d15ff550e
+2	105	6748611474435751	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+13	125	6748611474625756	CMakeFiles/Binary_search_tree.dir/bst.c.obj	f373e6058375754b
+141	314	6748611476490777	Binary_search_tree.exe	c264913d15ff550e
+2	127	6748655727660662	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+11	152	6748655727920234	CMakeFiles/Binary_search_tree.dir/bst.c.obj	f373e6058375754b
+217	363	6748655730009436	Binary_search_tree.exe	c264913d15ff550e
+2	88	6748656081135193	CMakeFiles/Binary_search_tree.dir/main.c.obj	7bdee81b81d6032e
+88	202	6748656082269162	Binary_search_tree.exe	c264913d15ff550e
+2	95	6748657450474821	CMakeFiles/Binary_search_tree.dir/bst.c.obj	f373e6058375754b
+98	219	6748657451695025	Binary_search_tree.exe	c264913d15ff550e
